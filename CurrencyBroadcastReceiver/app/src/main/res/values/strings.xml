@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyBroadcastReceiver</string>
+    <string name="textField" />
+    <string name="amount">Dollar amount($):</string>
+    <string name="currency">Convert to:</string>
+    <string name="apply">approve</string>
+    <string name="reject">reject</string>
+</resources>

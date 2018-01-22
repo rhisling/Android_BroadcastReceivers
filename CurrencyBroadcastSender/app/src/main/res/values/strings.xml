@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CurrencyBroadcastSender</string>
+    <string name="text">Currency Converter</string>
+    <string name="currencyconverter">Currency Converter</string>
+    <string name="convertButton">Convert</string>
+    <string name="titleID">Currency Converter</string>
+    <string name="label1">Dollar Amount($):</string>
+    <string name="label2">Convert to:</string>
+    <string name="status" />
+    <string-array name="currency">
+        <item>Pound</item>
+        <item>Euro</item>
+        <item>Rupee</item>
+    </string-array>
+</resources>
